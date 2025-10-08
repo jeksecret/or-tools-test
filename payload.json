@@ -1,0 +1,15 @@
+{
+  "points": [
+    {"id": "DEPOT", "lat": 35.68, "lng": 139.76},
+    {"id": "R001_P", "lat": 35.69, "lng": 139.77},
+    {"id": "R001_D", "lat": 35.70, "lng": 139.78},
+    {"id": "R002_P", "lat": 35.71, "lng": 139.79},
+    {"id": "R002_D", "lat": 35.72, "lng": 139.80},
+    {"id": "R003_P", "lat": 35.73, "lng": 139.81},
+    {"id": "R003_D", "lat": 35.74, "lng": 139.82}
+  ],
+  "pickup_drop_pairs": [[1, 2], [3, 4], [5, 6]],
+  "vehicle_count": 2,
+  "vehicle_capacity": 2,
+  "departure_time": "2025-10-08T09:00:00Z"
+}

@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+gunicorn
+ortools
+requests
+python-dotenv
